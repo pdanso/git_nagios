@@ -183,7 +183,7 @@ pep8==1.7.1
 pexpect==4.7.0
 pickleshare==0.7.5
 pid==2.2.3
-Pillow==5.4.1
+Pillow==8.1.1
 ply==3.11
 powerline-status==2.7
 pre-commit==1.18.3
