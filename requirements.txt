@@ -211,7 +211,7 @@ pydbus==0.6.0
 pyenchant==2.0.0
 pyflakes==2.1.1
 pygit2==0.27.4
-Pygments==2.4.2
+Pygments==2.7.4
 PyGObject==3.32.0
 PyHive==0.6.1
 pyinotify==0.9.6
