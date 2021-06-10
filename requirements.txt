@@ -59,7 +59,7 @@ defusedxml==0.6.0
 demjson==2.2.4
 dill==0.2.9
 distro==1.4.0
-Django==2.2.5
+Django==2.2.24
 django-jenkins==0.110.0
 django-tastypie==0.14.3
 docker==3.7.0
