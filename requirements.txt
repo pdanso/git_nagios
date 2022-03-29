@@ -174,7 +174,7 @@ packaging==19.2
 pandas==0.25.1
 pandocfilters==1.4.2
 parameterized==0.7.0
-paramiko==2.5.0
+paramiko==2.10.1
 parso==0.5.1
 Paste==2.0.3
 pbr==5.1.2
