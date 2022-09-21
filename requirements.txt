@@ -135,7 +135,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-jwcrypto==0.7
+jwcrypto==1.4
 kiwisolver==1.1.0
 kombu==4.6.3
 langtable==0.0.41
