@@ -227,7 +227,7 @@ pyproj==2.4.1
 pyrsistent==0.15.4
 PySmbClient==0.1.5
 PySocks==1.6.8
-pyspark==2.4.4
+pyspark==3.2.2
 pyspark-stubs==2.4.0.post6
 python-augeas==0.5.0
 python-crontab==2.4.0
