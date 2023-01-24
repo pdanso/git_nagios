@@ -2,7 +2,7 @@ adal==1.2.2
 alabaster==0.7.12
 alembic==1.2.1
 amqp==2.5.2
-ansible==2.8.5
+ansible==7.0.0
 ansible-bender==0.7.0
 antlr4-python3-runtime==4.7.2
 apache-airflow==1.10.5
